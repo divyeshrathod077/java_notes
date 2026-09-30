@@ -927,4 +927,5 @@ Abstraction   → What details should be hidden?
 this vs super
 
 this  → current object/class context
-super → parent class constructor call
+
+super → parent class context
